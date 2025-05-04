@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/my_program.dir/src/basic.cc.o -o my_program   -L/home/sujan/Downloads/mujoco-3.2.7-linux-x86_64/sujan_mujoco/lib  -Wl,-rpath,/home/sujan/Downloads/mujoco-3.2.7-linux-x86_64/sujan_mujoco/lib -lmujoco 

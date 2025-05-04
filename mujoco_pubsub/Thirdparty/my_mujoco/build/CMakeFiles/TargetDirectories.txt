@@ -1,0 +1,4 @@
+/home/sujan/Downloads/my_mujoco/build/CMakeFiles/main.dir
+/home/sujan/Downloads/my_mujoco/build/CMakeFiles/main2.dir
+/home/sujan/Downloads/my_mujoco/build/CMakeFiles/edit_cache.dir
+/home/sujan/Downloads/my_mujoco/build/CMakeFiles/rebuild_cache.dir
